@@ -2,7 +2,7 @@ const stockList = document.getElementById("stocks");
 const stockInput = document.getElementById("stockInput");
 const addStock = document.getElementById("addStock");
 
-const apiKey = "ctcu2opr01qlc0uvk8ggctcu2opr01qlc0uvk8h0"; // Replace with your actual Finnhub API key
+const apiKey = "API Key"; // Replace with your actual Finnhub API key
 
 // Fetch stock data from Finnhub and render the table
 function fetchStock(stock) {
